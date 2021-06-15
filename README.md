@@ -1,5 +1,5 @@
 # dig
-检查落地及返回DNS IP
+检查落地机返回DNS IP
 
 安装依赖软件包
 yum install -y bind-utils
